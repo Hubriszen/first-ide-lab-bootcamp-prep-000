@@ -1,4 +1,0 @@
-hello world. why do all html education courses use this line?
-ls
-pwd
-ls
